@@ -1,2 +1,1 @@
-# ProjetExtension
-Extension Chrome
+# tracker-chrome-extension
